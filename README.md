@@ -1,5 +1,3 @@
-// Alexandra Moroiu 315CA
-
 Story:
 
 Structurally, the load balancer is comprised of a circular doubly linked list,
